@@ -1,0 +1,28 @@
+#success_message{ display: none;}
+.container{ text-align: center;
+           justify-content: center;
+           display: flex;
+           margin:0 auto;
+          margin-top: 40px;
+         
+        background-color: gray;
+        width: 330px;
+        height: 500px;
+          
+              
+               }
+.space{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}       
+#bodyimg{background-image: url(Newfolder/BUTEXBC.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-size: 100%;
+
+}
+#hadi{
+    color: rgb(212, 255, 20);
+    position: relative;
+}
